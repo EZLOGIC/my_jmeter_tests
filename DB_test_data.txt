@@ -1,0 +1,6 @@
+name	location
+'Detroit'	'(-83.0, 42.3)'
+'New York'	'(-74.0, 40.7)'
+'Denver'	'(-105.0, 39.7)'
+'Miami'	'(-80.2, 25.8)'
+'Atlanta'	'(-84.4, 33.7)'
